@@ -1,4 +1,4 @@
-[#] https://www.youtube.com/watch?v=_gikjdpWmcI&t=952s // Youtube Video Link of This Project
+Rename the folder downloaded from github.com repository to wassup
 
 [#] how to access the app:
 1. open cmd 
