@@ -1,0 +1,47 @@
+[#] https://www.youtube.com/watch?v=_gikjdpWmcI&t=952s // Youtube Video Link of This Project
+
+[#] how to access the app:
+1. open cmd 
+2. cd downloads/wassup
+3. npm run dev   // if you want to stop the server type cntrl + C in "cmd" and type cls to clear previous lines.
+4. open browser and enter localhost:3000 to access the app.
+
+---------------------------------------------------------------
+
+[#] basic commands in "cmd" to create project:- 
+
+1. cd downloads    // change directory to downloads
+2. mkdir wassup    // make a wassup named directory
+3. cd wassup       // get into wassup directory
+4. code .          // to open wassup folder in vscode
+5. npm init -y     // to generate package.json file
+
+[+] create NPM project
+
+[+] create Index, Css, Js files
+
+npm install express // used to install express.js
+npm install nodemon -D // used to install nodemon
+
+[+] install dependancies, express, nodemon(dev dep.)
+
+[+] create a express server (server.js)
+
+npm run dev // to run javascript server
+localhost:3000 // type this in browser url to access the app
+
+[+] do frontend part
+
+[+] Install socket.io, Setup socket.io in server.js and client client.js
+
+cntrl+c // press these button to stop server
+cls // to clear all previous commands in command prompt
+npm install socket.io // used to install socket.io
+
+[+] client send message logic in client.js
+
+[+] Recieve message on server and broadcast to all clients
+
+[+] Recieve message on client and display it, scrollToBottom etc...
+
+[+] project is Ready.
